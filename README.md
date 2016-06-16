@@ -1,4 +1,4 @@
-# Vagrant virtual box for Ethereum DApps development
+# Vagrant box for Ethereum DApps development
 
 Ubuntu 14.04 with
 * [geth](https://github.com/ethereum/go-ethereum)
@@ -9,7 +9,7 @@ Ubuntu 14.04 with
 
 * Vagrant `1.5.0`+
     * Use `vagrant -v` to check your version
-* Vitualbox or VMWare Fusion
+* Vitualbox
 
 ## Usage:
 
